@@ -1,7 +1,7 @@
 FROM dunglas/frankenphp
 
 # Be sure to replace "your-domain-name.example.com" by your domain name
-ENV SERVER_NAME=duffyandbaker.com
+ENV SERVER_NAME=whatgigs.online
 
 # If you want to disable HTTPS, use this value instead:
 #ENV SERVER_NAME=:80
